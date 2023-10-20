@@ -1,2 +1,2 @@
 # hello-world-php
-Simple Hello World PHP app
+Simple Hello World PHP app.
